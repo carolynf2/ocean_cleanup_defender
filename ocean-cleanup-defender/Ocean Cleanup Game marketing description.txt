@@ -1,0 +1,19 @@
+prompt = f"""
+Your task is to help create a marketing description for an educational technology blog
+aimed at teachers and parents o elementary and middle school-aged children 
+for this game based on the following description, limiting it to 30 words or less and
+using catchy, punchy, and desirable language that makes the children feel intrinsically excited 
+to play it:
+
+Ocean Cleanup Game
+
+- Click to collect floating plastic debris and oil spills
+- Drag nets to catch garbage while avoiding marine life
+- Timer-based levels with increasing difficulty
+- Score system based on waste collected vs. sea creatures saved
+"""
+
+response = get_completion(prompt)
+print(response)
+
+Output: "Join the mission to save our oceans! Clean up plastic and oil spills in fun, challenging levels. Score big by saving marine life!"
