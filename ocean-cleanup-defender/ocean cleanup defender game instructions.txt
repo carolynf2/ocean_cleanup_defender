@@ -1,7 +1,0 @@
-To play the game:
-
-Go to the C:\Users\MSI_Z97\Documents\goose-demo\ocean-cleanup-defender folder on your computer.
-Open the index.html file in your web browser.
-Click the "Start Game" button.
-Use the left and right arrow keys or 'A' and 'D' keys to move your boat and collect the light gray debris while avoiding the dark green oil slicks.
-Try to get a high score!
